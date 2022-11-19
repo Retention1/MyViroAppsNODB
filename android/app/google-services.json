@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1055952608426",
+    "project_id": "myviroapps",
+    "storage_bucket": "myviroapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055952608426:android:dba8689c0fe38d8c4b44d3",
+        "android_client_info": {
+          "package_name": "com.example.my_viro_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055952608426-imasqehd5dd3o5dape7i68oef8l0lcu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBawY3Eak7k0OH8Eonb4qfTAIZ7889Qd1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055952608426-imasqehd5dd3o5dape7i68oef8l0lcu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
